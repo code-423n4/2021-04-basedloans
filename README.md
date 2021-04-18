@@ -4,7 +4,7 @@ This `README.md` contains a set of checklists for our contest collaboration.
 
 Your contest will use two repos: 
 - **a _contest_ repo** (this one), which is used for scoping your contest and for providing information to contestants (wardens)
-- **a _findings_ repo**, where issues are submitted. (We'll set that one up later.) 
+- **a _findings_ repo**, where issues are submitted, triaged, and deduped, responded to, etc.
 
 Ultimately, when we launch the contest, this contest repo will be made public and will contain the smart contracts to be reviewed and all the information needed for contest participants. The findings repo will be made public after the contest is over and your team has mitigated the identified issues.
 
