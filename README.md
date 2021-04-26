@@ -31,7 +31,7 @@ Some of the checklists in this doc are for **C4 (🐺)** and some of them are fo
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
 - Submit findings [using the C4 form](https://c4-basedloans.netlify.app/)
 - [Read our guidelines for more details](https://code423n4.com/compete)
-- Starts 2021-04-28 00:00:00 UTC
+- Starts 2021-04-29 00:00:00 UTC
 - Ends 2021-05-04 23:59:00 UTC
 
 This repo will be made public before the start of the contest.
