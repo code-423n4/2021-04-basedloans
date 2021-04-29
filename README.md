@@ -8,8 +8,6 @@
 
 This repo will be made public before the start of the contest.
 
-[ ⭐️ SPONSORS ADD INFO HERE ]
-
 Based Loans is fork of Compound. In theory it should inherit Compound's security. However, any change made to smart contracts can introduce a critical bug. To make it easier for auditors, below is a summary of changes. Be aware that these are not all changes. Do code diff with compound contract to see all changes made.
 
 If you are not familiar with Compound, feel free to read their documentation https://compound.finance/docs
